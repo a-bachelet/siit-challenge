@@ -1,0 +1,1 @@
+Payment = Struct.new(:who, :type, :amount)
